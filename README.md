@@ -25,3 +25,5 @@ contacts are provided as follows:
 Additional information about the organization:
 
 ![s_5](https://user-images.githubusercontent.com/94778056/190203741-7ad8e960-f94c-4ebb-b20e-f2da796da45d.png)
+
+Link to the website:
